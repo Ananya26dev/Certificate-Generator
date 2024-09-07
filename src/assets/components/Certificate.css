@@ -30,3 +30,12 @@ body{
   margin-left: 245px;
   font-size: 0.95rem;
 }
+button{
+  height: 40px;
+  width: 100px;
+  border: none;
+  background-color: orange;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+}
